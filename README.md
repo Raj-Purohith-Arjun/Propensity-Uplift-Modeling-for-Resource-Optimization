@@ -1,9 +1,7 @@
 # Propensity & Uplift Modeling for Resource Optimization
 
-A production-grade data science framework that combines propensity scoring and
-uplift modeling to drive data-driven resource prioritization.  Built with
-Python (scikit-learn, XGBoost), SQL-first data extraction, and rigorous A/B
-testing, the framework achieves an **18 % incremental conversion lift** while
+A production-grade data science framework that combines propensity scoring and uplift modeling to drive data-driven resource prioritization.  Built with
+Python (scikit-learn, XGBoost), SQL-first data extraction, and rigorous A/Btesting, the framework achieves an **18 % incremental conversion lift** while
 reducing low-value operational effort by **22 %**.
 
 ---
